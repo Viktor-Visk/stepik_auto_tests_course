@@ -1,2 +1,1 @@
-# stepik_auto_tests_course
-repository for autotests 
+Репозиторий где будут храниться автотесты, как ДЗ с курса, так и написанные для работы.
